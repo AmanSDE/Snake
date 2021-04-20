@@ -1,8 +1,11 @@
 # Snake
 
 A vanilla JavaScript game
+<i>Bare Minimum Styling, Would love if you add styling and tag me back.</i>
 
-Bare Minimum Styling, Would love if you add styling and tag me back.
+
+![127 0 0 1_5500_index html(iPhone X) (6)](https://user-images.githubusercontent.com/75170638/115476099-bc04f880-a25e-11eb-874d-bd897930d895.png)
+
 
 # Steps...What I did
 
